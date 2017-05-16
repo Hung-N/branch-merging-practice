@@ -7,3 +7,6 @@
 "If we bypass the circuit, we can get to the SQL program through the redundant FTP sensor!"
 "Use the open-source SDD array, then you can parse the online port!"
 "Use the 1080p HDD protocol, then you can navigate the wireless panel!"
+"You can't input the application without copying the solid state CSS program!"
+"Use the bluetooth COM hard drive, then you can transmit the virtual bus!"
+"We need to transmit the digital FTP capacitor!"
