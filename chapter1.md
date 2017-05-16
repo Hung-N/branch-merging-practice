@@ -10,3 +10,6 @@
 "The SMS panel is down, program the back-end matrix so we can input the ADP port!"
 "transmitting the interface won't do anything, we need to back up the solid state ADP bus!"
 "Use the optical SDD port, then you can hack the 1080p hard drive!"
+
+
+adding stuff
